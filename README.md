@@ -168,6 +168,12 @@ python -m streamlit run app.py
 
 Streamlit will display a local URL, usually `http://localhost:8501`. Open that URL in your browser to use the dashboard.
 
+## Dashboard Demo
+
+Watch the screen recording of the Eco-Health Risk Predictor dashboard.
+
+[Watch the Dashboard Demonstration](https://github.com/user-attachments/assets/)
+
 ### 5. Run the Jupyter Notebook
 
 Install Jupyter Notebook if necessary:
