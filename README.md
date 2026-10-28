@@ -173,7 +173,16 @@ Streamlit will display a local URL, usually `http://localhost:8501`. Open that U
 Watch the screen recording of the Eco-Health Risk Predictor dashboard.
 
 [Watch the Dashboard Demonstration]
-<img width="1279" height="746" alt="Screenshot 2026-10-28 234038" src="https://github.com/user-attachments/assets/91c8fece-8997-482a-88d7-ff017c436aa0" />
+
+
+
+
+
+https://github.com/user-attachments/assets/430703a7-b01f-4a7c-8efc-a778190bdd61
+
+
+
+
 
 
 
